@@ -1,5 +1,30 @@
 body {
     margin: 0 20%;
+    background-color: #CCC;
+    color: #000;
+    font-family: sans-serif;
+}
+
+a:link { 
+    color: #008; 
+    text-decoration: none; 
+}
+
+a:hover { 
+    background-color: #FF0; 
+    color: #800; 
+    text-decoration: underline; 
+}
+
+a:focus { 
+    background-color: #FFF; 
+    color: #800; 
+    text-decoration: none; 
+}
+
+a:visited { 
+    color: #404; 
+    text-decoration: none; 
 }
 
 h1 {
@@ -14,7 +39,24 @@ table {
     background-color: #fafafa;
 }
 
+table, td, th { 
+    border: 1px solid #444; 
+    border-collapse: collapse; 
+}
+
+td, th { 
+    padding: 0.2em; 
+}
+
 blockquote {
     background-color: #fafafa;
     border-radius: 10px;
+    border-left: 1px solid #444; 
+    padding-left: 1em; 
+    margin-left: 1em;
+}
+
+img { 
+    max-width: 100%; 
+    height: auto; 
 }
