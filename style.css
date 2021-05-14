@@ -1,0 +1,20 @@
+body {
+    margin: 0 20%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+table {
+    background-color: #fafafa;
+}
+
+blockquote {
+    background-color: #fafafa;
+    border-radius: 10px;
+}
