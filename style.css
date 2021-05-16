@@ -1,5 +1,7 @@
 body {
-    margin: 0 20%;
+    margin: auto;
+    max-width: 80ch;
+    padding: 1em;
     background-color: #CCC;
     color: #000;
     font-family: sans-serif;
