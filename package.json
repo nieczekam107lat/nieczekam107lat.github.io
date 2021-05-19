@@ -1,0 +1,11 @@
+{
+  "name": "nieczekam107lat.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:haron-IV/nieczekam107lat.github.io.git",
+  "author": "Haron-IV",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
